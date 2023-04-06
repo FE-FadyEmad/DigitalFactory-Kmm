@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "2589c17e5cb62697938de14118a12132a78d26f3d814d391c4f16b14301db433"
+build_start_time: [1680703054, 571997165]
+build_end_time: [1680703056, 793177127]
+inputs:
+  "/Users/fadyemad/Projects/DigitalFactoryKmm/iosApp/iosApp/ContentView.swift": [1680687207, 985249519]
+  "/Users/fadyemad/Projects/DigitalFactoryKmm/iosApp/iosApp/iOSApp.swift": [1680521512, 506623744]

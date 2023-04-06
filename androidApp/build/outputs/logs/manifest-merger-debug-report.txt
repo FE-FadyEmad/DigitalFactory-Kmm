@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+MERGED from [:shared] /Users/fadyemad/Projects/DigitalFactory-Kmm/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/567c3017a3de371345bd9e2a327bacff/transformed/ui-tooling-1.2.1/AndroidManifest.xml:17:1-29:12
+MERGED from [androidx.compose.material:material:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/a830618d7551016693391776c66e9524/transformed/material-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-ripple:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/8ffab245658f2eefbe8408ddb216e747/transformed/material-ripple-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.foundation:foundation:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/fc98949fa2dfe7a24e641dbc73bcd80b/transformed/foundation-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/fadyemad/.gradle/caches/transforms-3/b5d4cf3c7789b915cd839ac0b536bed3/transformed/activity-compose-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/690b32aad0786df3943260036ba3140d/transformed/animation-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/f4f57d63ebcfb748d9f0eed607d19c05/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/472bb07b0a8747f5c194cc99107f7898/transformed/foundation-layout-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.material:material-icons-core:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/68e451b23bce8af0ee177520170a083d/transformed/material-icons-core-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/79bc7be36c82ef4b7ed812ab8980c08c/transformed/animation-core-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/b7b57bcfd123ce3a0fdcbe7e706ba96e/transformed/ui-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/d7bcb6fd752e58be877b643f6e007a47/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/6ca7967f2ad58a557f5f43494567e7cc/transformed/ui-text-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/78257eba5543907507d9b9a7203ebb93/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/174642fce1f6fa47357fd17a487c522e/transformed/ui-graphics-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/a8431a66f7612360dba44ffb003788b4/transformed/ui-unit-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/1e8419200824400e5f949038012e36e8/transformed/ui-geometry-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/698160739237fd2110051be2c2b8b682/transformed/runtime-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/fadyemad/.gradle/caches/transforms-3/9a218cbd9a00af0943a54c8411308b67/transformed/activity-ktx-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/390cba1bace903d3de9aada02026b008/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/9de69dda750a1993c43fdad597208ff3/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /Users/fadyemad/.gradle/caches/transforms-3/1ae43d7a37f17671d4b540ce3b0eb3e2/transformed/activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/dce456779ee973e718c97b3c778827bc/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/ba8245ba75a50a5903a9c89dddbf57c4/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/b07071438ef5a51a8a73e931187beacb/transformed/ui-util-1.2.1/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/fadyemad/.gradle/caches/transforms-3/1a73d89733900182386f9308d62ece91/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/66719b11e7f6ca31c3716e03fb5a81d1/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/fadyemad/.gradle/caches/transforms-3/859e37dba913a54ed2bc91589c829fe4/transformed/core-ktx-1.5.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/a41af5dc1f35421c78620db1c2ba9a6c/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/fadyemad/.gradle/caches/transforms-3/b969057206f209b23d8ea5d1a7858620/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.8.0] /Users/fadyemad/.gradle/caches/transforms-3/7b2afce5838db37f195ea0fe87712d36/transformed/core-1.8.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/7229014f1fc603819aed26fcd6ce7d4a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:17:1-50:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/0651db4c9a776c021b187b8b9a0788a4/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/591ea1fa596a6e107784cbd24b091b20/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/fadyemad/.gradle/caches/transforms-3/94b3b09c58ce4b207cb0e6e3dea333fa/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/0017aab2c60e2fdaa221bf69c4acff31/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/fadyemad/.gradle/caches/transforms-3/87670ecf8d8eb7a45f02514a605c842a/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/fadyemad/.gradle/caches/transforms-3/39be63f157c7367b07ea53ca15b900f8/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+	package
+		INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+		INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+		INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:2:1-18:12
+		INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:5:5-17:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/567c3017a3de371345bd9e2a327bacff/transformed/ui-tooling-1.2.1/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/567c3017a3de371345bd9e2a327bacff/transformed/ui-tooling-1.2.1/AndroidManifest.xml:23:5-27:19
+MERGED from [androidx.core:core:1.8.0] /Users/fadyemad/.gradle/caches/transforms-3/7b2afce5838db37f195ea0fe87712d36/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] /Users/fadyemad/.gradle/caches/transforms-3/7b2afce5838db37f195ea0fe87712d36/transformed/core-1.8.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/7229014f1fc603819aed26fcd6ce7d4a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/7229014f1fc603819aed26fcd6ce7d4a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:24:5-48:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/0017aab2c60e2fdaa221bf69c4acff31/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/0017aab2c60e2fdaa221bf69c4acff31/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] /Users/fadyemad/.gradle/caches/transforms-3/7b2afce5838db37f195ea0fe87712d36/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:7:9-35
+	android:allowBackup
+		ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:6:9-36
+	android:theme
+		ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:8:9-40
+activity#com.example.digitalfactorykmm.android.MainActivity
+ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:9:9-16:20
+	android:exported
+		ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:10:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml:14:27-74
+uses-sdk
+INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml
+MERGED from [:shared] /Users/fadyemad/Projects/DigitalFactory-Kmm/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:shared] /Users/fadyemad/Projects/DigitalFactory-Kmm/shared/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/567c3017a3de371345bd9e2a327bacff/transformed/ui-tooling-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/567c3017a3de371345bd9e2a327bacff/transformed/ui-tooling-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/a830618d7551016693391776c66e9524/transformed/material-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/a830618d7551016693391776c66e9524/transformed/material-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-ripple:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/8ffab245658f2eefbe8408ddb216e747/transformed/material-ripple-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-ripple:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/8ffab245658f2eefbe8408ddb216e747/transformed/material-ripple-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/fc98949fa2dfe7a24e641dbc73bcd80b/transformed/foundation-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/fc98949fa2dfe7a24e641dbc73bcd80b/transformed/foundation-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/fadyemad/.gradle/caches/transforms-3/b5d4cf3c7789b915cd839ac0b536bed3/transformed/activity-compose-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-compose:1.5.1] /Users/fadyemad/.gradle/caches/transforms-3/b5d4cf3c7789b915cd839ac0b536bed3/transformed/activity-compose-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/690b32aad0786df3943260036ba3140d/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/690b32aad0786df3943260036ba3140d/transformed/animation-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/f4f57d63ebcfb748d9f0eed607d19c05/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-data:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/f4f57d63ebcfb748d9f0eed607d19c05/transformed/ui-tooling-data-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/472bb07b0a8747f5c194cc99107f7898/transformed/foundation-layout-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.foundation:foundation-layout:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/472bb07b0a8747f5c194cc99107f7898/transformed/foundation-layout-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-icons-core:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/68e451b23bce8af0ee177520170a083d/transformed/material-icons-core-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.material:material-icons-core:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/68e451b23bce8af0ee177520170a083d/transformed/material-icons-core-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/79bc7be36c82ef4b7ed812ab8980c08c/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.animation:animation-core:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/79bc7be36c82ef4b7ed812ab8980c08c/transformed/animation-core-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/b7b57bcfd123ce3a0fdcbe7e706ba96e/transformed/ui-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/b7b57bcfd123ce3a0fdcbe7e706ba96e/transformed/ui-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/d7bcb6fd752e58be877b643f6e007a47/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-tooling-preview:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/d7bcb6fd752e58be877b643f6e007a47/transformed/ui-tooling-preview-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/6ca7967f2ad58a557f5f43494567e7cc/transformed/ui-text-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-text:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/6ca7967f2ad58a557f5f43494567e7cc/transformed/ui-text-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/78257eba5543907507d9b9a7203ebb93/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime-saveable:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/78257eba5543907507d9b9a7203ebb93/transformed/runtime-saveable-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/174642fce1f6fa47357fd17a487c522e/transformed/ui-graphics-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-graphics:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/174642fce1f6fa47357fd17a487c522e/transformed/ui-graphics-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/a8431a66f7612360dba44ffb003788b4/transformed/ui-unit-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-unit:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/a8431a66f7612360dba44ffb003788b4/transformed/ui-unit-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/1e8419200824400e5f949038012e36e8/transformed/ui-geometry-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-geometry:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/1e8419200824400e5f949038012e36e8/transformed/ui-geometry-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/698160739237fd2110051be2c2b8b682/transformed/runtime-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.runtime:runtime:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/698160739237fd2110051be2c2b8b682/transformed/runtime-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/fadyemad/.gradle/caches/transforms-3/9a218cbd9a00af0943a54c8411308b67/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] /Users/fadyemad/.gradle/caches/transforms-3/9a218cbd9a00af0943a54c8411308b67/transformed/activity-ktx-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/390cba1bace903d3de9aada02026b008/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/390cba1bace903d3de9aada02026b008/transformed/lifecycle-runtime-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/9de69dda750a1993c43fdad597208ff3/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/9de69dda750a1993c43fdad597208ff3/transformed/lifecycle-viewmodel-ktx-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/fadyemad/.gradle/caches/transforms-3/1ae43d7a37f17671d4b540ce3b0eb3e2/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/fadyemad/.gradle/caches/transforms-3/1ae43d7a37f17671d4b540ce3b0eb3e2/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/dce456779ee973e718c97b3c778827bc/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/dce456779ee973e718c97b3c778827bc/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/ba8245ba75a50a5903a9c89dddbf57c4/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/ba8245ba75a50a5903a9c89dddbf57c4/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/b07071438ef5a51a8a73e931187beacb/transformed/ui-util-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.compose.ui:ui-util:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/b07071438ef5a51a8a73e931187beacb/transformed/ui-util-1.2.1/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/fadyemad/.gradle/caches/transforms-3/1a73d89733900182386f9308d62ece91/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/fadyemad/.gradle/caches/transforms-3/1a73d89733900182386f9308d62ece91/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/66719b11e7f6ca31c3716e03fb5a81d1/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/66719b11e7f6ca31c3716e03fb5a81d1/transformed/savedstate-ktx-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/fadyemad/.gradle/caches/transforms-3/859e37dba913a54ed2bc91589c829fe4/transformed/core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.5.0] /Users/fadyemad/.gradle/caches/transforms-3/859e37dba913a54ed2bc91589c829fe4/transformed/core-ktx-1.5.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/a41af5dc1f35421c78620db1c2ba9a6c/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/a41af5dc1f35421c78620db1c2ba9a6c/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/fadyemad/.gradle/caches/transforms-3/b969057206f209b23d8ea5d1a7858620/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/fadyemad/.gradle/caches/transforms-3/b969057206f209b23d8ea5d1a7858620/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/fadyemad/.gradle/caches/transforms-3/7b2afce5838db37f195ea0fe87712d36/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] /Users/fadyemad/.gradle/caches/transforms-3/7b2afce5838db37f195ea0fe87712d36/transformed/core-1.8.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/7229014f1fc603819aed26fcd6ce7d4a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/7229014f1fc603819aed26fcd6ce7d4a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:21:5-22:38
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/0651db4c9a776c021b187b8b9a0788a4/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/0651db4c9a776c021b187b8b9a0788a4/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/591ea1fa596a6e107784cbd24b091b20/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/fadyemad/.gradle/caches/transforms-3/591ea1fa596a6e107784cbd24b091b20/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/fadyemad/.gradle/caches/transforms-3/94b3b09c58ce4b207cb0e6e3dea333fa/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/fadyemad/.gradle/caches/transforms-3/94b3b09c58ce4b207cb0e6e3dea333fa/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/0017aab2c60e2fdaa221bf69c4acff31/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/0017aab2c60e2fdaa221bf69c4acff31/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/fadyemad/.gradle/caches/transforms-3/87670ecf8d8eb7a45f02514a605c842a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/fadyemad/.gradle/caches/transforms-3/87670ecf8d8eb7a45f02514a605c842a/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/fadyemad/.gradle/caches/transforms-3/39be63f157c7367b07ea53ca15b900f8/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/fadyemad/.gradle/caches/transforms-3/39be63f157c7367b07ea53ca15b900f8/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml
+INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml
+		ADDED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml
+		INJECTED from /Users/fadyemad/Projects/DigitalFactory-Kmm/androidApp/src/main/AndroidManifest.xml
+activity#androidx.compose.ui.tooling.PreviewActivity
+ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/567c3017a3de371345bd9e2a327bacff/transformed/ui-tooling-1.2.1/AndroidManifest.xml:24:9-26:39
+	android:exported
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/567c3017a3de371345bd9e2a327bacff/transformed/ui-tooling-1.2.1/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [androidx.compose.ui:ui-tooling:1.2.1] /Users/fadyemad/.gradle/caches/transforms-3/567c3017a3de371345bd9e2a327bacff/transformed/ui-tooling-1.2.1/AndroidManifest.xml:25:13-71
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/0017aab2c60e2fdaa221bf69c4acff31/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/fadyemad/.gradle/caches/transforms-3/0017aab2c60e2fdaa221bf69c4acff31/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:29:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:27:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:26:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.2.0] /Users/fadyemad/.gradle/caches/transforms-3/93aab22695f918cb8ae2abe45127df6c/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82
